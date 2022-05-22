@@ -6,6 +6,6 @@ Repositório criado para projetos em Django, aprimorando habilidades.
 
 Abaixo, todos os projetos para **Django**:
 
-- [x] **Projeto Agenda com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-agenda) |
+- **Projeto Agenda com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-agenda) |
 
 * Em andamento :wink:
