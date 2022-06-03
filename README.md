@@ -9,8 +9,8 @@ Abaixo, todos os projetos para **Django**:
 ==========================================
 ### Projetos Básicos
 - **Projeto Agenda com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-agenda) |
-- **Projeto Blog com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-agenda) |
-- **Projeto E-commerce genérico com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-agenda) |
+- **Projeto Blog com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-blog) |
+- **Projeto E-commerce genérico com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-ecommerce-generico) |
 
 ### Projetos Intermédiarios
 
