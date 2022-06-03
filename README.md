@@ -6,11 +6,12 @@ Repositório criado para projetos em Django, aprimorando habilidades.
 
 Abaixo, todos os projetos para **Django**:
 
-* Projetos Básicos
+=============================================================================================================================
+### Projetos Básicos
 - **Projeto Agenda com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-agenda) |
 - **Projeto Blog com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-agenda) |
 - **Projeto E-commerce genérico com Django**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/django-agenda) |
-
-* Projetos Intermédiarios
+=============================================================================================================================
+### Projetos Intermédiarios
 
 * Em andamento :wink:
