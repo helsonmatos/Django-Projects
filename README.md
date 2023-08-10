@@ -15,3 +15,4 @@ Abaixo, todos os projetos para **Django**:
 ### Projetos Intermédiarios
 
 * Em andamento :wink:
+* 
